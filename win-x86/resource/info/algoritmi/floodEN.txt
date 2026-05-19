@@ -1,0 +1,9 @@
+﻿Flood Fill is an algorithm used to fill a connected area with a new color. It starts from one cell and recursively spreads to neighboring cells that have the same original color.
+
+In this visualizer:
+- A grid is generated with different cell colors
+- Click on a cell to start the fill
+- The algorithm spreads up, down, left, and right
+- Only connected cells with the same color are changed
+
+Flood Fill is commonly used in paint tools, image editing, games, and map area detection.

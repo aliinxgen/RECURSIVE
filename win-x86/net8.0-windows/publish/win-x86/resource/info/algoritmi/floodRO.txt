@@ -1,0 +1,9 @@
+﻿Flood Fill este un algoritm folosit pentru umplerea unei zone conectate cu o culoare nouă. Acesta pornește dintr-o celulă și se extinde recursiv către celulele vecine care au aceeași culoare inițială.
+
+În acest vizualizator:
+- Este generată o grilă cu celule de culori diferite
+- Apasă pe o celulă pentru a începe umplerea
+- Algoritmul se extinde sus, jos, la stânga și la dreapta
+- Sunt modificate doar celulele conectate care au aceeași culoare
+
+Flood Fill este folosit frecvent în programe de desen, editare de imagini, jocuri și detectarea zonelor pe hartă.

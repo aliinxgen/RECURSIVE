@@ -1,0 +1,10 @@
+﻿A magic square is a grid of numbers where every row, column, and diagonal has the same sum. This visualizer uses backtracking to search for a valid arrangement of numbers.
+
+In this visualizer:
+- Choose the number of rows and columns
+- Set the target sum
+- Fill some cells manually or leave them empty
+- Run the solver to complete the square automatically
+- The algorithm tests combinations step by step
+
+Magic squares are a classic mathematical puzzle used to study logic, recursion, and combinatorics.

@@ -1,0 +1,9 @@
+﻿Algoritmul lui Dijkstra este folosit pentru găsirea celui mai scurt drum între nodurile unui graf ponderat. Acesta funcționează alegând mereu nodul cu cea mai mică distanță cunoscută și actualizând distanțele vecinilor săi.
+
+În acest vizualizator:
+- Apasă pentru a crea noduri
+- Conectează nodurile cu muchii ponderate
+- Alege un nod de start și unul final
+- Rulează algoritmul pentru a vedea cel mai scurt drum evidențiat
+
+Algoritmul este utilizat frecvent în GPS-uri, sisteme de rutare și optimizarea rețelelor.

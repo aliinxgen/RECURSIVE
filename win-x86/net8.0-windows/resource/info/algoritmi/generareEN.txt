@@ -1,0 +1,9 @@
+﻿This module demonstrates maze generation using recursion and backtracking. The algorithm starts from one cell, chooses random directions, carves passages, and goes back whenever it reaches a dead end.
+
+In this visualizer:
+- Black cells represent walls
+- White cells represent open paths
+- The maze is generated step by step
+- Each run creates a different maze because the directions are shuffled randomly
+
+This technique is often used in games, procedural map generation, and puzzle design.

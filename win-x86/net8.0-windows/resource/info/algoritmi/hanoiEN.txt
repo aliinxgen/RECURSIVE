@@ -1,0 +1,9 @@
+﻿The Tower of Hanoi is a classic recursion problem where disks must be moved from one tower to another using an auxiliary tower. A larger disk can never be placed on top of a smaller disk.
+
+In this visualizer:
+- The disks start on the first tower
+- The algorithm moves them to the last tower
+- Each move follows the Tower of Hanoi rules
+- The recursive solution is shown step by step
+
+This problem is useful for understanding recursion, problem decomposition, and how smaller subproblems build the final solution.

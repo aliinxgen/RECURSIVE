@@ -1,0 +1,40 @@
+﻿Backtracking is used to solve Sudoku puzzles.
+Recursive functions call themselves.
+The first computer bug was an actual moth.
+Binary uses only 0 and 1.
+Algorithms are step-by-step instructions.
+Python was named after Monty Python.
+RAM loses data when power is turned off.
+A byte contains 8 bits.
+The internet and the web are not the same thing.
+Recursion can replace loops in many problems.
+The first programmer was Ada Lovelace.
+Computers understand electricity, not words.
+A GPU is specialized for parallel tasks.
+Minecraft was originally made in Java.
+Sorting algorithms have different speeds.
+Backtracking explores every possible solution.
+Stack Overflow launched in 2008.
+Some programming languages are older than the internet.
+The first hard drives stored only a few megabytes.
+Encryption protects your data online.
+Computers use clocks to stay synchronized.
+Machine learning learns from patterns in data.
+The first website still exists online.
+C# was developed by Microsoft.
+The brain is still more efficient than modern computers.
+A compiler translates code into machine instructions.
+The Linux mascot is called Tux.
+Most websites use HTML, CSS, and JavaScript.
+A semicolon can break an entire program.
+Video games use physics engines for movement.
+Some algorithms are inspired by nature.
+A recursive problem often has smaller subproblems.
+The first Apple logo showed Isaac Newton.
+QR codes can still work when partially damaged.
+Wi-Fi does not actually stand for anything.
+The first 1GB hard drive weighed over 200 kilograms.
+Cloud storage still runs on physical servers.
+The longest running computer bug lasted for years.
+Computers count using base 2.
+AI models are trained using massive datasets.

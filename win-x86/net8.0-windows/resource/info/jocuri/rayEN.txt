@@ -1,0 +1,10 @@
+﻿This project demonstrates a simple raycasting engine combined with pathfinding and exploration algorithms. Raycasting creates a 3D-style perspective by casting rays from the player's position and detecting walls in the maze.
+
+In this visualizer:
+- The player explores a maze from a first-person perspective
+- The minimap shows walls, explored areas, and the treasure
+- Press T to enable automatic exploration
+- The AI uses pathfinding to navigate through the maze
+- Press R to generate a new treasure location
+
+This project combines concepts such as raycasting, A* pathfinding, maze exploration, and basic game engine rendering.

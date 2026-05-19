@@ -1,0 +1,28 @@
+﻿This module compares several pathfinding algorithms and visualizes how they explore a maze step by step.
+
+The green cell represents the starting point, while the red cell represents the destination.
+
+Black cells are walls that cannot be crossed.
+
+Algorithms included:
+
+• BFS (Breadth-First Search)
+BFS explores the maze level by level. It guarantees the shortest path in an unweighted grid, but it may visit many unnecessary cells.
+
+• DFS (Depth-First Search)
+DFS explores one path as deeply as possible before going back. It is simple and fast in some situations, but it does not guarantee the shortest path.
+
+• Dijkstra
+Dijkstra’s algorithm expands nodes based on the shortest known distance from the start. It guarantees the optimal path and is commonly used in navigation systems.
+
+• A* (A-Star)
+A* improves Dijkstra by using a heuristic that estimates the remaining distance to the goal. It is usually faster and explores fewer nodes.
+
+Colors:
+• Blue / Purple / Orange / Pink = explored nodes
+• Gold = final path
+• Black = wall
+• Green = start
+• Red = target
+
+This visualization helps demonstrate how different algorithms search and how efficient they are.

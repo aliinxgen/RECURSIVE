@@ -1,0 +1,9 @@
+﻿Problema celor 8 regine este un puzzle clasic de backtracking. Scopul este să așezi 8 regine pe tabla de șah astfel încât nicio regină să nu atace altă regină.
+
+În acest vizualizator:
+- Așază manual reginele pe tablă
+- Verifică dacă aranjarea ta este corectă
+- Folosește Solve pentru a genera automat o soluție validă
+- Reginele nu pot fi pe același rând, aceeași coloană sau aceeași diagonală
+
+Această problemă este utilă pentru înțelegerea constrângerilor, recursivității și modului în care backtracking-ul caută soluții valide.

@@ -1,0 +1,9 @@
+﻿Acest modul demonstrează generarea unui labirint folosind recursivitate și backtracking. Algoritmul pornește dintr-o celulă, alege direcții aleatorii, sapă drumuri și se întoarce atunci când ajunge într-un punct mort.
+
+În acest vizualizator:
+- Celulele negre reprezintă pereți
+- Celulele albe reprezintă drumuri libere
+- Labirintul este generat pas cu pas
+- Fiecare rulare creează un labirint diferit, deoarece direcțiile sunt amestecate aleatoriu
+
+Această tehnică este folosită frecvent în jocuri, generarea procedurală de hărți și crearea puzzle-urilor.

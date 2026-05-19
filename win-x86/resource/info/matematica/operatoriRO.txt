@@ -1,0 +1,9 @@
+﻿Acest modul găsește expresii matematice prin introducerea operatorilor între cifre. Folosește backtracking pentru a testa combinații posibile până găsește expresii care dau rezultatul dorit.
+
+În acest vizualizator:
+- Introdu un set de cifre
+- Introdu rezultatul țintă
+- Algoritmul încearcă ordini diferite ale cifrelor și operatori diferiți
+- Expresiile corecte sunt afișate în lista de rezultate
+
+Acest exemplu este util pentru înțelegerea recursivității, backtracking-ului, permutărilor și priorității operatorilor.

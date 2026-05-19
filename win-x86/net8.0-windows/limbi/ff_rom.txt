@@ -1,0 +1,40 @@
+﻿Backtracking-ul este folosit pentru rezolvarea puzzle-urilor Sudoku.
+Funcțiile recursive se pot apela singure.
+Primul „bug” informatic chiar a fost o molie prinsă într-un calculator.
+Sistemul binar folosește doar cifrele 0 și 1.
+Algoritmii reprezintă pași clari pentru rezolvarea unei probleme.
+Limbajul Python și-a primit numele de la grupul de comedie Monty Python.
+Memoria RAM pierde informațiile atunci când calculatorul este oprit.
+Un byte este format din 8 biți.
+Internetul și World Wide Web-ul nu sunt același lucru.
+În multe probleme, recursivitatea poate lua locul buclelor repetitive.
+Ada Lovelace este considerată primul programator din istorie.
+Calculatoarele înțeleg semnale electrice, nu cuvinte.
+Un GPU este creat special pentru procesarea simultană a multor operații.
+Minecraft a fost dezvoltat inițial în limbajul Java.
+Algoritmii de sortare pot avea viteze foarte diferite.
+Backtracking-ul încearcă toate variantele posibile până găsește soluția corectă.
+Platforma Stack Overflow a fost lansată în anul 2008.
+Unele limbaje de programare sunt mai vechi decât internetul.
+Primele hard disk-uri puteau stoca doar câțiva megabytes.
+Criptarea ajută la protejarea datelor pe internet.
+Calculatoarele folosesc ceasuri interne pentru sincronizarea operațiilor.
+Machine learning-ul învață identificând modele și tipare în date.
+Primul website creat vreodată poate fi accesat și astăzi.
+Limbajul C# a fost dezvoltat de Microsoft.
+Creierul uman este încă mai eficient energetic decât calculatoarele moderne.
+Un compilator transformă codul sursă în instrucțiuni pe care calculatorul le poate executa.
+Mascota sistemului Linux se numește Tux.
+Majoritatea site-urilor sunt construite folosind HTML, CSS și JavaScript.
+Uneori, un simplu punct și virgulă poate cauza erori într-un întreg program.
+Jocurile video folosesc motoare fizice pentru simularea mișcării și coliziunilor.
+Unii algoritmi sunt inspirați din procese întâlnite în natură.
+Problemele recursive sunt adesea împărțite în subprobleme mai mici.
+Primul logo Apple îl înfățișa pe Isaac Newton.
+Codurile QR pot fi citite chiar dacă o parte din ele este deteriorată.
+Denumirea „Wi-Fi” nu vine de fapt de la niciun termen tehnic.
+Primul hard disk de 1 GB cântărea peste 200 de kilograme.
+Datele stocate „în cloud” sunt păstrate tot pe servere fizice.
+Unele erori informatice au rămas nedescoperite ani întregi.
+Calculatoarele folosesc baza 2 pentru efectuarea calculelor.
+Modelele de inteligență artificială sunt antrenate folosind cantități uriașe de date.

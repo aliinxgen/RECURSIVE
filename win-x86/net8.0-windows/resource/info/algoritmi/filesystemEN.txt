@@ -1,0 +1,36 @@
+﻿This module demonstrates how recursion can be used to explore a filesystem structure.
+
+The generated tree contains folders and files arranged in multiple levels, similar to how real operating systems organize data.
+
+Folders may contain:
+- other folders
+- files
+- nested structures
+
+The traversal uses Depth-First Search (DFS) recursion.
+
+How it works:
+1. Visit a folder
+2. Explore every child inside it
+3. If a child is another folder, recursively explore that folder
+4. Return when all children were visited
+
+During traversal:
+- Red nodes are currently being explored
+- Green nodes were fully processed
+- White nodes were not visited yet
+
+The depth counter shows how deep the recursive calls reached.
+
+This demonstrates:
+- recursion
+- tree traversal
+- DFS exploration
+- hierarchical structures
+
+Real applications include:
+- file explorers
+- operating systems
+- game object hierarchies
+- website crawlers
+- compilers

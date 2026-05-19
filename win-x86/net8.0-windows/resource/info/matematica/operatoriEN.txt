@@ -1,0 +1,9 @@
+﻿This module finds mathematical expressions by inserting operators between digits. It uses backtracking to test possible combinations until it finds expressions that match the target value.
+
+In this visualizer:
+- Enter a set of digits
+- Enter the target result
+- The algorithm tries different digit orders and operators
+- Valid expressions are displayed in the results list
+
+This is useful for understanding recursion, backtracking, permutations, and operator precedence.

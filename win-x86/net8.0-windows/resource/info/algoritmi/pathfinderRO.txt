@@ -1,0 +1,28 @@
+﻿Acest modul compară mai mulți algoritmi de găsire a drumului și arată vizual cum explorează un labirint pas cu pas.
+
+Celula verde reprezintă punctul de start, iar cea roșie reprezintă destinația.
+
+Celulele negre sunt pereți care nu pot fi traversați.
+
+Algoritmi incluși:
+
+• BFS (Breadth-First Search)
+BFS explorează labirintul nivel cu nivel. Garantează găsirea celui mai scurt drum într-o grilă neponderată, dar poate vizita multe celule inutile.
+
+• DFS (Depth-First Search)
+DFS explorează un drum cât mai adânc posibil înainte de a reveni. Este simplu și rapid în anumite situații, dar nu garantează drumul minim.
+
+• Dijkstra
+Algoritmul lui Dijkstra extinde nodurile în funcție de cea mai mică distanță cunoscută față de start. Garantează drumul optim și este folosit frecvent în sisteme de navigație.
+
+• A* (A-Star)
+A* îmbunătățește algoritmul lui Dijkstra folosind o euristică ce estimează distanța rămasă până la destinație. De obicei este mai rapid și explorează mai puține noduri.
+
+Culori:
+• Albastru / Mov / Portocaliu / Roz = noduri explorate
+• Auriu = drumul final
+• Negru = perete
+• Verde = start
+• Roșu = destinație
+
+Această vizualizare ajută la observarea diferențelor dintre algoritmi și a eficienței lor.

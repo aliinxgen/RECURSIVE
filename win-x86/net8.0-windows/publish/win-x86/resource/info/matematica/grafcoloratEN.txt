@@ -1,0 +1,10 @@
+﻿Graph coloring is a problem where each node in a graph must receive a color so that no two connected nodes share the same color. This problem is commonly solved using backtracking.
+
+In this visualizer:
+- Left click to create nodes
+- Click two nodes to connect them with an edge
+- Right click a node to remove it
+- Run the algorithm to color the graph automatically
+- The colors are assigned step by step
+
+Graph coloring is used in scheduling, map coloring, register allocation, and optimization problems.

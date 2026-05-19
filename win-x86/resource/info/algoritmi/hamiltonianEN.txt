@@ -1,0 +1,9 @@
+﻿A Hamiltonian path is a path in a graph that visits every node exactly once. Finding such a path is a classic problem in graph theory and is often solved using backtracking.
+
+In this visualizer:
+- Add nodes to create a graph
+- Connect nodes using edges
+- Run the algorithm to search for a Hamiltonian path
+- The valid path is highlighted step by step
+
+Hamiltonian path problems are important in routing, optimization, scheduling, and puzzle solving.

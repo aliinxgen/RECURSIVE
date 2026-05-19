@@ -1,0 +1,10 @@
+﻿Un pătrat magic este o grilă de numere în care fiecare rând, coloană și diagonală are aceeași sumă. Acest vizualizator folosește backtracking pentru a căuta o aranjare validă a numerelor.
+
+În acest vizualizator:
+- Alege numărul de rânduri și coloane
+- Setează suma țintă
+- Completează unele celule manual sau lasă-le goale
+- Rulează solverul pentru a completa automat pătratul
+- Algoritmul testează combinațiile pas cu pas
+
+Pătratele magice sunt puzzle-uri matematice clasice folosite pentru studierea logicii, recursivității și combinatoricii.

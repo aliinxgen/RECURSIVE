@@ -1,0 +1,9 @@
+﻿Dijkstra's algorithm is used to find the shortest path between nodes in a weighted graph. It works by repeatedly selecting the node with the smallest known distance and updating the distances of its neighbors.
+
+In this visualizer:
+- Click to create nodes
+- Connect nodes with weighted edges
+- Select a start node and an end node
+- Run the algorithm to see the shortest path highlighted
+
+The algorithm is widely used in GPS navigation, routing systems, and network optimization.

@@ -1,0 +1,10 @@
+﻿Fractalii sunt forme create prin repetarea aceluiași model la scări din ce în ce mai mici. Ei sunt strâns legați de recursivitate, deoarece fiecare pas desenează o versiune mai mică a formei anterioare.
+
+Acest modul include:
+- Arbore recursiv: fiecare ramură se împarte în ramuri mai mici
+- Triunghiul Sierpinski: un triunghi se împarte repetat în triunghiuri mai mici
+- Fulgul Koch: fiecare segment de linie este înlocuit cu un model mai mic
+
+Slider-ul de adâncime controlează câte niveluri recursive sunt desenate. O adâncime mai mare creează mai multe detalii, dar necesită și mai multe calcule.
+
+Fractalii sunt folosiți în matematică, modelarea naturii, grafică pe calculator, generarea terenurilor și design procedural.

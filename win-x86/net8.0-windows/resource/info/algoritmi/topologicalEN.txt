@@ -1,0 +1,9 @@
+﻿Acest vizualizator demonstrează Merge Sort, un algoritm eficient de sortare bazat pe tehnica divide et impera. Algoritmul împarte repetat vectorul în părți mai mici, le sortează și apoi le combină în ordine corectă.
+
+În acest vizualizator:
+- Fiecare bară reprezintă o valoare
+- Barele portocalii arată elementele comparate în acel moment
+- Barele se reorganizează treptat în ordine crescătoare
+- Procesul este animat pas cu pas
+
+Merge Sort este folosit frecvent datorită eficienței și performanței sale stabile pe seturi mari de date.

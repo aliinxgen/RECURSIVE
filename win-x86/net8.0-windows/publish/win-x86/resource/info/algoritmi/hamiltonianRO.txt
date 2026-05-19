@@ -1,0 +1,9 @@
+﻿Un drum Hamiltonian este un drum într-un graf care vizitează fiecare nod exact o singură dată. Găsirea unui astfel de drum este o problemă clasică din teoria grafurilor și este rezolvată adesea folosind backtracking.
+
+În acest vizualizator:
+- Adaugă noduri pentru a crea un graf
+- Conectează nodurile folosind muchii
+- Rulează algoritmul pentru a căuta un drum Hamiltonian
+- Drumul valid este evidențiat pas cu pas
+
+Problemele Hamiltoniene sunt importante în rutare, optimizare, planificare și rezolvarea puzzle-urilor.

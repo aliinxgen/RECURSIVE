@@ -1,0 +1,8 @@
+﻿Un arbore binar este o structură de date ierarhică în care fiecare nod poate avea cel mult doi copii: unul stâng și unul drept. Arborii binari sunt folosiți frecvent în informatică pentru căutare, sortare și organizarea eficientă a datelor.
+
+Acest vizualizator demonstrează cele trei tipuri principale de parcurgere:
+- Preordine: Rădăcină → Stânga → Dreapta
+- Inordine: Stânga → Rădăcină → Dreapta
+- Postordine: Stânga → Dreapta → Rădăcină
+
+Nodurile evidențiate arată ordinea exactă în care arborele este parcurs.

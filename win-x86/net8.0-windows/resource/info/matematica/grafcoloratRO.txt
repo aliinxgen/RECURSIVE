@@ -1,0 +1,10 @@
+﻿Colorarea grafurilor este o problemă în care fiecare nod al unui graf trebuie să primească o culoare astfel încât două noduri conectate să nu aibă aceeași culoare. Această problemă este rezolvată frecvent folosind backtracking.
+
+În acest vizualizator:
+- Click stânga pentru a crea noduri
+- Apasă pe două noduri pentru a le conecta cu o muchie
+- Click dreapta pe un nod pentru a-l șterge
+- Rulează algoritmul pentru a colora automat graful
+- Culorile sunt atribuite pas cu pas
+
+Colorarea grafurilor este folosită în planificare, colorarea hărților, alocarea registrelor și probleme de optimizare.

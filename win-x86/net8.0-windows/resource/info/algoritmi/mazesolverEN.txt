@@ -1,0 +1,10 @@
+﻿Maze Solver demonstrates how recursion and backtracking can be used to find a path through a maze. The algorithm starts from the green cell and searches for a route to the red cell.
+
+In this visualizer:
+- Green marks the starting point
+- Red marks the destination
+- Black cells are walls
+- Orange cells show the current explored path
+- Dark cells show paths that were tried but led to dead ends
+
+This helps explain how backtracking tests possible routes and returns when a path does not work.

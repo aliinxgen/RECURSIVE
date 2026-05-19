@@ -1,0 +1,8 @@
+﻿A binary tree is a hierarchical data structure where each node can have up to two children: a left child and a right child. Binary trees are widely used in computer science for searching, sorting, and organizing data efficiently.
+
+This visualizer demonstrates the three main tree traversals:
+- Preorder: Root → Left → Right
+- Inorder: Left → Root → Right
+- Postorder: Left → Right → Root
+
+The highlighted nodes show the exact order in which the traversal visits the tree.

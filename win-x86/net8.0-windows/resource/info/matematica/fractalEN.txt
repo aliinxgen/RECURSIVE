@@ -1,0 +1,10 @@
+﻿Fractals are shapes created by repeating the same pattern at smaller and smaller scales. They are strongly connected to recursion because each step draws a smaller version of the previous shape.
+
+This module includes:
+- Recursive Tree: each branch splits into smaller branches
+- Sierpinski Triangle: a triangle repeatedly divides into smaller triangles
+- Koch Snowflake: each line segment is replaced by a smaller pattern
+
+The depth slider controls how many recursive levels are drawn. Higher depth creates more detail, but also requires more calculations.
+
+Fractals are used in mathematics, nature modeling, computer graphics, terrain generation, and procedural design.

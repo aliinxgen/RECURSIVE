@@ -1,0 +1,36 @@
+﻿Acest modul demonstrează cum poate fi folosită recursivitatea pentru explorarea unei structuri de tip filesystem.
+
+Arborele generat conține foldere și fișiere organizate pe mai multe niveluri, asemănător modului în care sistemele de operare organizează datele.
+
+Folderele pot conține:
+- alte foldere
+- fișiere
+- structuri imbricate
+
+Parcurgerea folosește recursivitate de tip Depth-First Search (DFS).
+
+Cum funcționează:
+1. Se vizitează un folder
+2. Sunt explorate toate elementele din interior
+3. Dacă un element este alt folder, funcția îl explorează recursiv
+4. Funcția revine după ce toate elementele au fost procesate
+
+În timpul parcurgerii:
+- Nodurile roșii sunt explorate în acel moment
+- Nodurile verzi au fost procesate complet
+- Nodurile albe nu au fost încă vizitate
+
+Contorul de adâncime arată cât de adânc au ajuns apelurile recursive.
+
+Acest modul demonstrează:
+- recursivitate
+- traversarea arborilor
+- explorare DFS
+- structuri ierarhice
+
+Aplicații reale:
+- exploratoare de fișiere
+- sisteme de operare
+- ierarhii de obiecte în jocuri
+- crawlere web
+- compilatoare

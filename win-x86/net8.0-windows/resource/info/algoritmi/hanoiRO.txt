@@ -1,0 +1,9 @@
+﻿Turnurile din Hanoi reprezintă o problemă clasică de recursivitate, în care discurile trebuie mutate de pe un turn pe altul folosind un turn auxiliar. Un disc mai mare nu poate fi pus niciodată peste un disc mai mic.
+
+În acest vizualizator:
+- Discurile pornesc de pe primul turn
+- Algoritmul le mută pe ultimul turn
+- Fiecare mutare respectă regulile problemei
+- Soluția recursivă este afișată pas cu pas
+
+Această problemă este utilă pentru înțelegerea recursivității, împărțirea unei probleme în subprobleme și construirea soluției finale.

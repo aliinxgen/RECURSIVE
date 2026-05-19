@@ -1,0 +1,10 @@
+﻿Maze Solver demonstrează cum recursivitatea și backtracking-ul pot fi folosite pentru a găsi un drum printr-un labirint. Algoritmul pornește din celula verde și caută o cale până la celula roșie.
+
+În acest vizualizator:
+- Verde marchează punctul de start
+- Roșu marchează destinația
+- Celulele negre sunt pereți
+- Celulele portocalii arată drumul explorat curent
+- Celulele închise la culoare arată drumuri încercate care au dus în puncte moarte
+
+Acest exemplu ajută la înțelegerea modului în care backtracking-ul testează rute posibile și se întoarce atunci când o cale nu funcționează.

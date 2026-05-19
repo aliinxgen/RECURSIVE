@@ -1,0 +1,9 @@
+﻿This visualizer demonstrates Merge Sort, an efficient sorting algorithm based on the divide-and-conquer technique. The algorithm repeatedly splits the array into smaller parts, sorts them, and merges them back together in order.
+
+In this visualizer:
+- Each bar represents a value
+- Orange bars show the elements currently being compared
+- The bars gradually rearrange into sorted order
+- The process is animated step by step
+
+Merge Sort is widely used because of its efficiency and predictable performance on large datasets.

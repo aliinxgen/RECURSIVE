@@ -1,0 +1,9 @@
+﻿Sudoku este un puzzle bazat pe logică, în care scopul este completarea unei grile 9×9 astfel încât fiecare rând, coloană și secțiune 3×3 să conțină numerele de la 1 la 9 o singură dată.
+
+În acest vizualizator:
+- Alege un nivel de dificultate
+- Completează grila manual sau folosește rezolvarea automată
+- Verifică dacă soluția curentă este validă
+- Urmărește algoritmul rezolvând puzzle-ul pas cu pas folosind backtracking
+
+Sudoku este un exemplu excelent de rezolvare a constrângerilor și tehnici recursive de problem solving.

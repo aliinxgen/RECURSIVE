@@ -1,0 +1,10 @@
+﻿Acest proiect demonstrează un motor simplu de raycasting combinat cu algoritmi de pathfinding și explorare. Raycasting-ul creează o perspectivă pseudo-3D prin trimiterea unor raze din poziția jucătorului pentru detectarea pereților din labirint.
+
+În acest vizualizator:
+- Jucătorul explorează labirintul din perspectivă first-person
+- Minimap-ul afișează pereții, zonele explorate și comoara
+- Apasă T pentru a activa explorarea automată
+- AI-ul folosește pathfinding pentru a naviga prin labirint
+- Apasă R pentru a genera o nouă poziție a comorii
+
+Acest proiect combină concepte precum raycasting, pathfinding A*, explorarea labirinturilor și randarea de bază a unui motor de joc.
